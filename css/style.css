@@ -74,11 +74,9 @@ body{
   stroke:white;
   stroke-miterlimit:10;
   stroke-width:30px;
-  transition: all ease-in-out .2s;
 }
 .cls-4:hover{
   fill:white;
-  stroke-width:40px;
 }
 .cls-5{
   fill:none;
@@ -93,3 +91,4 @@ body{
   stroke:white;
   stroke-miterlimit:10;
   stroke-width:30px;
+}
