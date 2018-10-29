@@ -12,10 +12,10 @@ body{
   font-family: myFirstFont, sans-serif;
   font-size: 64px;
   font-weight: 400;
-  color: yellow;
-  background-color: #0af2ff;
+  color:white;
+  background-color: black;
   /* background-color: #808080; */
-
+/* #0af2ff; */
 }
 
 .map{
