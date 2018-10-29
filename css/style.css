@@ -44,11 +44,9 @@ body{
   stroke:white;
   stroke-miterlimit:10;
   stroke-width:30px;
-  transition: all ease-in-out .2s;
 }
 .cls-1:hover{
   fill:white;
-  stroke-width:40px;
 }
 .cls-2{
   fill:#00A0E9;
@@ -56,11 +54,9 @@ body{
   stroke:white;
   stroke-miterlimit:10;
   stroke-width:30px;
-  transition: all ease-in-out .2s;
 }
 .cls-2:hover{
   fill:white;
-  stroke-width:40px;
 }
 .cls-3{
   fill:#00A0E9;
@@ -68,11 +64,9 @@ body{
   stroke:white;
   stroke-miterlimit:10;
   stroke-width:30px;
-  transition: all ease-in-out .2s;
 }
 .cls-3:hover{
   fill:white;
-  stroke-width:40px;
 }
 .cls-4{
   fill:#00A0E9;
