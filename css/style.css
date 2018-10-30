@@ -107,7 +107,7 @@ body{
 @media screen and (max-width: 640px) {
   
  .map{
-  top:50%; bottom:50%;
+  top:25%; bottom:50%;
   max-width: 50%;
   max-height: 50%;
 }
