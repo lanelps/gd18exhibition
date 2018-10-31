@@ -3,8 +3,13 @@
   src: url(../fonts/ProphetMedium.otf);
 }
 
-*{
+htlm, body{
+  height: 100%; 
   margin: 0px;
+}
+
+*{
+  user-select: none;
 }
 
 body{
@@ -14,8 +19,6 @@ body{
   font-weight: 400;
   color:white;
   background-color:#00A0E9;
-  /* background-color: #808080; */
-/* #0af2ff; */
 }
 
 .map{
@@ -25,82 +28,23 @@ body{
   margin:auto;
   max-width: 25%;
   max-height: 25%;
-
-  /* overflow:hidden; */
- 
+  overflow:hidden; 
 }
 
 .gd18{
   float: left;
   clear: both;
-  /* color: black; */
   color: white;
 }
 
 
-.cls-1{
+.cls{
   fill:#00A0E9;
-  /* stroke:black; */
   stroke:white;
   stroke-miterlimit:10;
   stroke-width:30px;
 }
-.cls-1:hover{
-  fill:white;
-}
-
-.cls-2{
-  fill:#00A0E9;
-  /* stroke:black; */
-  stroke:white;
-  stroke-miterlimit:10;
-  stroke-width:30px;
-}
-.cls-2:hover{
-  fill:white;
-}
-
-.cls-3{
-  fill:#00A0E9;
-  /* stroke:black; */
-  stroke:white;
-  stroke-miterlimit:10;
-  stroke-width:30px;
-}
-.cls-3:hover{
-  fill:white;
-}
-
-.cls-4{
-  fill:#00A0E9;
-  /* stroke:black; */
-  stroke:white;
-  stroke-miterlimit:10;
-  stroke-width:30px;
-}
-.cls-4:hover{
-  fill:white;
-}
-
-.cls-5{
-  fill:none;
-   /* stroke:black; */
-   stroke:white;
-  stroke-miterlimit:10;
-  stroke-width:30px;
-}
-.cls-5:hover{
-  fill:white;
-}
-
-.cls-6{
-  fill:none;
-  /* stroke:black; */
-  stroke:white;
-  stroke-miterlimit:10;
-  stroke-width:30px;
-}
-.cls-6:hover{
+.cls:hover{
   fill:white;
 }
 
