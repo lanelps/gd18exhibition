@@ -19,6 +19,7 @@ body{
   font-weight: 400;
   color:white;
   background-color:#00A0E9;
+  overflow:hidden;
 }
 
 .map{
@@ -28,7 +29,6 @@ body{
   margin:auto;
   max-width: 25%;
   max-height: 25%;
-  overflow:hidden; 
 }
 
 .gd18{
@@ -36,7 +36,6 @@ body{
   clear: both;
   color: white;
 }
-
 
 .cls{
   fill:#00A0E9;
