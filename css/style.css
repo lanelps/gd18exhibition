@@ -47,6 +47,20 @@ body{
   fill:white;
 }
 
+svg{
+  fill: white;
+}
+
+.facebook{
+  position: absolute;
+  top: 88%;
+}
+.instagram{
+  position: absolute;
+  top: 88%;
+  left: 70px;
+}
+
 @media screen and (max-width: 640px) {
   
  .map{
