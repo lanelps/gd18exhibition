@@ -43,7 +43,7 @@ body{
   stroke-miterlimit:10;
   stroke-width:30px;
 }
-.cls:hover{
+.cls:hover, .cls:active{
   fill:white;
 }
 
