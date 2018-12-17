@@ -23,7 +23,7 @@ $(document).ready(function () {
     });
 
     $(".cls.two").click(function () {
-        $(".workstitle2").toggle();
+        // $(".workstitle2").toggle();
         $(".workslist").toggle();
     });
 
